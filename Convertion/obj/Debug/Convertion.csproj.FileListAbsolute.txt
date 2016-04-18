@@ -1,0 +1,5 @@
+D:\Workspace\TestSpace\OfficeToPdf\Convertion\obj\Debug\Convertion.csprojResolveAssemblyReference.cache
+D:\Workspace\TestSpace\OfficeToPdf\Convertion\bin\Debug\Convertion.dll
+D:\Workspace\TestSpace\OfficeToPdf\Convertion\bin\Debug\Convertion.pdb
+D:\Workspace\TestSpace\OfficeToPdf\Convertion\obj\Debug\Convertion.dll
+D:\Workspace\TestSpace\OfficeToPdf\Convertion\obj\Debug\Convertion.pdb
